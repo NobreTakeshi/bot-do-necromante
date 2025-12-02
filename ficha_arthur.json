@@ -1,0 +1,89 @@
+{
+  "nome_jog": "Ryusaki",
+  "idade_jog": "+20",
+  "disp_jog": "A noite",
+  "nome_pers": "Arthur I'n Waker",
+  "idade_pers": "+1000",
+  "genero": "M",
+  "personalidade": "Calma, reservado, arrogante e animado",
+  "classe": "Necromante",
+  "social": "Plebeu",
+  "condicao": "Fardo da Eternidade",
+  "aparencia": "Rimuru Tempest",
+  "dinheiro": {
+    "bronze": 50,
+    "prata": 50,
+    "ouro": 50
+  },
+  "nivel": 5,
+  "xp": 0,
+  "rank": "E",
+  "rankIndex": 0,
+  "pontos_livres": 0,
+  "elementos": [
+    "Trevas"
+  ],
+  "fusoes": [],
+  "habilidades_extras": [
+    "Intensificação Mágica",
+    "Arcanismo Supremo"
+  ],
+  "itens": [
+    "Arco das Almas (Raro)",
+    "Égide do Vazio (Raro)"
+  ],
+  "lista_habilidades": [
+    "Constructo",
+    "Legião Oculta",
+    "Miasma",
+    "Transferência",
+    "Colheita"
+  ],
+  "atributos": {
+    "forca": 8,
+    "velocidade": 48,
+    "res_fisica": 10,
+    "poder_magico": 75,
+    "controle_magico": 75,
+    "res_magica": 3,
+    "precisao": 5
+  },
+  "multiplicadores": {
+    "res_fisica": 4,
+    "itens": 1.6
+  },
+  "multiplicadores_extra": {
+    "forca": 1,
+    "velocidade": 1,
+    "res_fisica": 1,
+    "poder_magico": 2,
+    "controle_magico": 1,
+    "res_magica": 1,
+    "precisao": 1,
+    "hp_max": 1,
+    "mp_max": 1
+  },
+  "hp_atual": 500,
+  "mp_atual": 1225,
+  "hp_max": 500,
+  "mp_max": 1225,
+  "cooldowns": {
+    "intensificacao": 1,
+    "constructo": 0,
+    "legiao": 0,
+    "miasma": 0,
+    "transferencia": 0,
+    "colheita": 0,
+    "vortice": 2,
+    "disparo": 0
+  },
+  "ativos": {
+    "intensificacao": 1,
+    "miasma": 0,
+    "colheita": 0,
+    "colheitaStack": 0,
+    "vortice": 0,
+    "constructo": 1
+  },
+  "turnosTotais": 4
+}
