@@ -1,0 +1,44 @@
+{
+  "nome_pers": "Yukine Crysmir",
+  "nivel": 1,
+  "xp": 0,
+  "rank": "D",
+  "elementos": [
+    "Água"
+  ],
+  "habilidades_extras": [
+    "Fonte Inesgotável"
+  ],
+  "lista_habilidades": [
+    "Berço do Monstro",
+    "Monstro Profundezas",
+    "Bênção Oceano"
+  ],
+  "atributos": {
+    "forca": 6,
+    "velocidade": 5,
+    "res_fisica": 8,
+    "poder_magico": 20,
+    "controle_magico": 23,
+    "res_magica": 5,
+    "precisao": 3
+  },
+  "multiplicadores_extra": {
+    "mp_max": 2
+  },
+  "hp_atual": 140,
+  "mp_atual": 830,
+  "hp_max": 140,
+  "mp_max": 1000,
+  "cargas_coracao": 4,
+  "cooldowns": {
+    "berco": 0,
+    "tentaculos": 3,
+    "bencao": 0
+  },
+  "ativos": {
+    "berco": 0,
+    "tentaculos": 2,
+    "bencao": 0
+  }
+}
